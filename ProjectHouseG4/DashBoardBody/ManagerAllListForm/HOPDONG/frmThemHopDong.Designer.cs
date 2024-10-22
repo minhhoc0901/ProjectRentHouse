@@ -689,7 +689,7 @@
             this.Controls.Add(this.guna2GroupBox1);
             this.Name = "frmThemHopDong";
             this.Text = "Chi Tiết Hợp Đồng";
-            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmThemHopDong_FormClosing);
+            //this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmThemHopDong_FormClosing);
             this.Load += new System.EventHandler(this.frmThemHopDong_Load);
             this.grCTHD.ResumeLayout(false);
             this.grCTHD.PerformLayout();
