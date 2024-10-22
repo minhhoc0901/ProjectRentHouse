@@ -91,13 +91,7 @@ namespace RentHouse.DashBoardBody.ManagerAllListForm.HOPDONG
 
         }
 
-        // Trể vào giao diện chính
-        private void btnThoat_Click(object sender, EventArgs e)
-        {
-            Form_DashBoard frmDashBoard = new Form_DashBoard();
-            frmDashBoard.ShowDialog();
-            this.Hide();
-        }
+       
     }
 }
 

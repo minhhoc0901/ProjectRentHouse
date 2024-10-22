@@ -364,7 +364,7 @@ namespace RentHouse.DashBoardBody.ManagerAllListForm.HOPDONG
 
                     if (hopDongs != null)
                     {
-                        DialogResult result = MessageBox.Show("Số hợp đồng đã tồn tại. Bạn có muốn cập nhật dữ liệu không ?", "Thông báo", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+                        DialogResult result = MessageBox.Show("Bạn có muốn cập nhật dữ liệu không ?", "Thông báo", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
                         if (result == DialogResult.OK)
                         {
                             hopDongs.MaKH = int.Parse(txtMaKT.Text);
@@ -424,10 +424,6 @@ namespace RentHouse.DashBoardBody.ManagerAllListForm.HOPDONG
                 {
                     MessageBox.Show("Thêm mới dữ liệu thất bại!" + ex.Message, "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
-            }
-            else
-            {
-                MessageBox.Show("Vui lòng chọn vào hợp đồng trước khi thêm!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -530,8 +526,7 @@ namespace RentHouse.DashBoardBody.ManagerAllListForm.HOPDONG
 
         private void btnDongFrm_Click(object sender, EventArgs e)
         {
-            frmQLHD frm = new frmQLHD();
-            frm.Show();  
+            this.Close();  
         }
 
 
@@ -562,20 +557,6 @@ namespace RentHouse.DashBoardBody.ManagerAllListForm.HOPDONG
                     txtTienThue.Text = cthopDongs.GiaThue.ToString();
                     txtGhiChus.Text = cthopDongs.GhiChu;
                 }
-            }
-        }
-
-        private void frmThemHopDong_FormClosing(object sender, FormClosingEventArgs e)
-        {
-            DialogResult result = MessageBox.Show("Bạn có muốn đóng form không?", "Xác nhận", MessageBoxButtons.OKCancel);
-            if (result == DialogResult.Cancel)
-            {
-                e.Cancel = true;
-            }
-            else
-            {
-                frmQLHD frm = new frmQLHD();
-                frm.Show();
             }
         }
     }
