@@ -1,26 +1,47 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\ThanhCongRoi\\ProjectHouseG4\\",
+  "WorkspaceRootPath": "C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse_GUI.csproj|f:\\thanhcongroi\\projecthouseg4\\dashboardbody\\manageralllistform\\hopdong\\frmqlhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse_GUI.csproj|solutionrelative:dashboardbody\\manageralllistform\\hopdong\\frmqlhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse.csproj|c:\\users\\tuana\\onedrive\\documents\\new folder\\renthousefinal\\projecthouseg4\\dashboardbody\\manageralllistform\\khachhang\\updatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse.csproj|solutionrelative:dashboardbody\\manageralllistform\\khachhang\\updatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse_GUI.csproj|f:\\thanhcongroi\\projecthouseg4\\dashboardbody\\manageralllistform\\hopdong\\frmqlhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse_GUI.csproj|solutionrelative:dashboardbody\\manageralllistform\\hopdong\\frmqlhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse.csproj|C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\dashboardbody\\manageralllistform\\khachhang\\updatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse.csproj|solutionrelative:dashboardbody\\manageralllistform\\khachhang\\updatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse_GUI.csproj|f:\\thanhcongroi\\projecthouseg4\\dashboardbody\\manageralllistform\\hopdong\\frmthemhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse_GUI.csproj|solutionrelative:dashboardbody\\manageralllistform\\hopdong\\frmthemhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse.csproj|C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\dashboardbody\\manageralllistform\\khachhang\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse.csproj|solutionrelative:dashboardbody\\manageralllistform\\khachhang\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse_GUI.csproj|f:\\thanhcongroi\\projecthouseg4\\dashboardbody\\manageralllistform\\hopdong\\frmthemhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse_GUI.csproj|solutionrelative:dashboardbody\\manageralllistform\\hopdong\\frmthemhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse.csproj|C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\dashboardbody\\manageralllistform\\phong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse.csproj|solutionrelative:dashboardbody\\manageralllistform\\phong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse_GUI.csproj|f:\\thanhcongroi\\projecthouseg4\\dashboardbody\\manageralllistform\\hopdong\\frmthemhopdong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse_GUI.csproj|solutionrelative:dashboardbody\\manageralllistform\\hopdong\\frmthemhopdong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse.csproj|C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\dashboardbody\\manageralllistform\\phong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse.csproj|solutionrelative:dashboardbody\\manageralllistform\\phong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse.csproj|C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\dashboardbody\\manageralllistform\\phong\\updateroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse.csproj|solutionrelative:dashboardbody\\manageralllistform\\phong\\updateroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse.csproj|C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\dashboardbody\\manageralllistform\\phong\\updateroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse.csproj|solutionrelative:dashboardbody\\manageralllistform\\phong\\updateroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse.csproj|C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\dashboardbody\\manageralllistform\\khachhang\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0296E8A3-3D9E-4C5E-863C-333F658A90EC}|RentHouse.csproj|solutionrelative:dashboardbody\\manageralllistform\\khachhang\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tuana\\OneDrive\\Documents\\DoAn\\RentHouseBUS\\KhachHangServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\tuana\\onedrive\\documents\\doan\\renthousebus\\services\\phong\\phongtroservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\tuana\\onedrive\\documents\\doan\\renthousebus\\services\\phong\\chitiethopdongservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,74 +51,146 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "frmThemHopDong.Designer.cs",
-              "DocumentMoniker": "F:\\ThanhCongRoi\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmThemHopDong.Designer.cs",
-              "RelativeDocumentMoniker": "DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmThemHopDong.Designer.cs",
-              "ToolTip": "F:\\ThanhCongRoi\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmThemHopDong.Designer.cs",
-              "RelativeToolTip": "DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmThemHopDong.Designer.cs",
-              "ViewState": "AgIAAJ8CAAAAAAAAAAAuwLMCAAAAAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\PHONG\\Form1.cs",
+              "RelativeDocumentMoniker": "DashBoardBody\\ManagerAllListForm\\PHONG\\Form1.cs",
+              "ToolTip": "C:\\Users\\tuana\\OneDrive\\Documents\\DoAn\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\PHONG\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\DoAn\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\PHONG\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:18:11.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T05:59:49.145Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\PHONG\\UpdateRoom.cs",
+              "RelativeDocumentMoniker": "DashBoardBody\\ManagerAllListForm\\PHONG\\UpdateRoom.cs",
+              "ToolTip": "C:\\Users\\tuana\\OneDrive\\Documents\\DoAn\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\PHONG\\UpdateRoom.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\DoAn\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\PHONG\\UpdateRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:41:01.321Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhongTroServices.cs",
+              "DocumentMoniker": "C:\\Users\\tuana\\OneDrive\\Documents\\DoAn\\ProjectHouseG4\\RentHouseBUS\\Services\\Phong\\PhongTroServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DoAn\\ProjectHouseG4\\RentHouseBUS\\Services\\Phong\\PhongTroServices.cs",
+              "ToolTip": "C:\\Users\\tuana\\OneDrive\\Documents\\DoAn\\ProjectHouseG4\\RentHouseBUS\\Services\\Phong\\PhongTroServices.cs",
+              "RelativeToolTip": "..\\..\\..\\DoAn\\ProjectHouseG4\\RentHouseBUS\\Services\\Phong\\PhongTroServices.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswC0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:35:06.482Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateRoom.cs",
+              "DocumentMoniker": "C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\PHONG\\UpdateRoom.cs",
+              "RelativeDocumentMoniker": "DashBoardBody\\ManagerAllListForm\\PHONG\\UpdateRoom.cs",
+              "ToolTip": "C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\PHONG\\UpdateRoom.cs",
+              "RelativeToolTip": "DashBoardBody\\ManagerAllListForm\\PHONG\\UpdateRoom.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:41:36.046Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhachHangServices.cs",
+              "DocumentMoniker": "C:\\Users\\tuana\\OneDrive\\Documents\\DoAn\\RentHouseBUS\\KhachHangServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DoAn\\RentHouseBUS\\KhachHangServices.cs",
+              "ToolTip": "C:\\Users\\tuana\\OneDrive\\Documents\\DoAn\\RentHouseBUS\\KhachHangServices.cs",
+              "RelativeToolTip": "..\\..\\..\\DoAn\\RentHouseBUS\\KhachHangServices.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:08:05.971Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\KHACHHANG\\Form2.cs",
+              "RelativeDocumentMoniker": "DashBoardBody\\ManagerAllListForm\\KHACHHANG\\Form2.cs",
+              "ToolTip": "C:\\Users\\tuana\\OneDrive\\Documents\\DoAn\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\KHACHHANG\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\DoAn\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\KHACHHANG\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:05:06.467Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "frmThemHopDong.cs",
-              "DocumentMoniker": "F:\\ThanhCongRoi\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmThemHopDong.cs",
-              "RelativeDocumentMoniker": "DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmThemHopDong.cs",
-              "ToolTip": "F:\\ThanhCongRoi\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmThemHopDong.cs",
-              "RelativeToolTip": "DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmThemHopDong.cs",
-              "ViewState": "AgIAAB8BAAAAAAAAAAAIwF8BAABAAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\PHONG\\Form1.cs",
+              "RelativeDocumentMoniker": "DashBoardBody\\ManagerAllListForm\\PHONG\\Form1.cs",
+              "ToolTip": "C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\PHONG\\Form1.cs",
+              "RelativeToolTip": "DashBoardBody\\ManagerAllListForm\\PHONG\\Form1.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAIwKkAAACIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:16:22.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmThemHopDong.cs [Design]",
-              "DocumentMoniker": "F:\\ThanhCongRoi\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmThemHopDong.cs",
-              "RelativeDocumentMoniker": "DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmThemHopDong.cs",
-              "ToolTip": "F:\\ThanhCongRoi\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmThemHopDong.cs [Design]",
-              "RelativeToolTip": "DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmThemHopDong.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:15:55.208Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmQLHD.cs",
-              "DocumentMoniker": "F:\\ThanhCongRoi\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmQLHD.cs",
-              "RelativeDocumentMoniker": "DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmQLHD.cs",
-              "ToolTip": "F:\\ThanhCongRoi\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmQLHD.cs",
-              "RelativeToolTip": "DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmQLHD.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAiwF0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:13:55.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T05:59:50.778Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmQLHD.cs [Design]",
-              "DocumentMoniker": "F:\\ThanhCongRoi\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmQLHD.cs",
-              "RelativeDocumentMoniker": "DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmQLHD.cs",
-              "ToolTip": "F:\\ThanhCongRoi\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmQLHD.cs [Design]",
-              "RelativeToolTip": "DashBoardBody\\ManagerAllListForm\\HOPDONG\\frmQLHD.cs [Design]",
+              "Title": "UpdateCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\KHACHHANG\\UpdateCustomer.cs",
+              "RelativeDocumentMoniker": "DashBoardBody\\ManagerAllListForm\\KHACHHANG\\UpdateCustomer.cs",
+              "ToolTip": "C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\KHACHHANG\\UpdateCustomer.cs [Design]",
+              "RelativeToolTip": "DashBoardBody\\ManagerAllListForm\\KHACHHANG\\UpdateCustomer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:09:52.881Z",
+              "WhenOpened": "2024-10-20T18:11:25.746Z",
+              "IsPinned": true,
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\KHACHHANG\\Form2.cs",
+              "RelativeDocumentMoniker": "DashBoardBody\\ManagerAllListForm\\KHACHHANG\\Form2.cs",
+              "ToolTip": "C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\KHACHHANG\\Form2.cs",
+              "RelativeToolTip": "DashBoardBody\\ManagerAllListForm\\KHACHHANG\\Form2.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAA+wGYAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:05:27.139Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\KHACHHANG\\UpdateCustomer.cs",
+              "RelativeDocumentMoniker": "DashBoardBody\\ManagerAllListForm\\KHACHHANG\\UpdateCustomer.cs",
+              "ToolTip": "C:\\Users\\tuana\\OneDrive\\Documents\\New folder\\RentHouseFinal\\ProjectHouseG4\\DashBoardBody\\ManagerAllListForm\\KHACHHANG\\UpdateCustomer.cs",
+              "RelativeToolTip": "DashBoardBody\\ManagerAllListForm\\KHACHHANG\\UpdateCustomer.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwGQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:25:06.116Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChiTietHopDongServices.cs",
+              "DocumentMoniker": "C:\\Users\\tuana\\OneDrive\\Documents\\DoAn\\ProjectHouseG4\\RentHouseBUS\\Services\\Phong\\ChiTietHopDongServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DoAn\\ProjectHouseG4\\RentHouseBUS\\Services\\Phong\\ChiTietHopDongServices.cs",
+              "ToolTip": "C:\\Users\\tuana\\OneDrive\\Documents\\DoAn\\ProjectHouseG4\\RentHouseBUS\\Services\\Phong\\ChiTietHopDongServices.cs",
+              "RelativeToolTip": "..\\..\\..\\DoAn\\ProjectHouseG4\\RentHouseBUS\\Services\\Phong\\ChiTietHopDongServices.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:43:31.1Z"
             }
           ]
         }
