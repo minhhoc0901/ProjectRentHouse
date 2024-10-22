@@ -1,4 +1,5 @@
 ﻿using RentHouse.DashBoardBody.ManagerAllListForm;
+using RentHouse.DashBoardBody.ManagerAllListForm.HOPDONG;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -89,8 +90,8 @@ namespace RentHouse.DashBoardBody
 
         private void button5_Click(object sender, EventArgs e)
         {
-            frmHopDong form5 = new frmHopDong();
-            ShowFormInPanel(form5);
+            frmQLHD frmQLHD = new frmQLHD();
+            ShowFormInPanel(frmQLHD);
         }
 
         private void button6_Click(object sender, EventArgs e)
